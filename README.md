@@ -10,7 +10,7 @@ Full Stack Developer
 
 
 
-![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/abi52310/count.svg)
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
